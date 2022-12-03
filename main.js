@@ -136,6 +136,12 @@ function new_image(get_image)
             new_image('water.jpg');
             console.log("w");
         }
+        if(keyPressed == '83')
+        {
+            new_image('player2.png');
+            console.log("s");
+        }
+        
 
 
         
