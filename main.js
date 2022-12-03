@@ -11,7 +11,7 @@ var player_object="";
 
 function player_update()
 {
-    fabric.Image.formURL("player_object.png", function(Img){})
+    fabric.Image.fromURL("player2.png", function(Img){
     player_object = Img;
 
     player_object.scaleToWidth(150);
@@ -21,7 +21,7 @@ function player_update()
         left:player_x
     });
     canvas.add(player_object)
-
+    });
 }
 
 function new_image(get_image)
@@ -85,10 +85,10 @@ function new_image(get_image)
         }
 
 
-        if(keyPressed == '87')
+        if(keyPressed == '66')
         {
             new_image('wall.jpg');
-            console.log("w");
+            console.log("b");
         }
 
         if(keyPressed == '71')
@@ -131,5 +131,59 @@ function new_image(get_image)
             new_image('cloud.jpg');
             console.log("c");
         }
+        if(keyPressed == '87')
+        {
+            new_image('water.jpg');
+            console.log("w");
+        }
+
+
         
     }
+
+    function up(){
+        if(player_y >=0)
+        {
+            player_y = player_y - block_image_height;
+            console.log("block image height = " + block_image_height);
+            console.log("When Up arrow key is pressed, X = " + player_x + " , Y = " + player_y);
+            canvas.remove(player_object);
+            player_update();
+        }
+    }
+
+    function down(){
+        if(player_y <=550)
+        {
+            player_y = player_y + block_image_height;
+            console.log("block image height = " + block_image_height);
+            console.log("When Down arrow key is pressed, X = " + player_x + " , Y = " + player_y);
+            canvas.remove(player_object);
+            player_update();
+        }
+
+    }
+
+    function left(){
+        if(player_x >0)
+        {
+            player_x = player_x - block_image_width;
+            console.log("block image width = " + block_image_width);
+            console.log("When Left arrow key is pressed, X = " + player_x + " , Y = " + player_y);
+            canvas.remove(player_object);
+            player_update();
+        }
+    }
+
+    function right(){
+        if(player_x <950)
+        {
+            player_x = player_x + block_image_width;
+            console.log("block image width = " + block_image_width);
+            console.log("When Right arrow key is pressed, X = " + player_x + " , Y = " + player_y);
+            canvas.remove(player_object);
+            player_update();
+        }
+    }
+
+
