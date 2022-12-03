@@ -8,7 +8,8 @@ Minecraft2DpainterMinecraft2DpainterMinecraft2DpainterMinecraft2DpainterMinecraf
 
 All new Minecraft 2D Painter Redesigned!
 
-![image](https://user-images.githubusercontent.com/94727252/205456568-a0747982-1c19-4675-8bbf-e50e385ba88f.png) All Controls: 
+![image](https://user-images.githubusercontent.com/94727252/205456657-0761e6b3-6a96-4a28-a424-00b758c63b30.png)
+ All Controls: 
 
 W - Water Block
 B - Brick Wall
