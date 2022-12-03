@@ -11,25 +11,25 @@ All new Minecraft 2D Painter Redesigned!
 
 𝔸𝕝𝕝 ℂ𝕠𝕟𝕥𝕣𝕠𝕝𝕤:
 
-W - Water Block
+ᴡ - ᴡᴀᴛᴇʀ ʙʟᴏᴄᴋ
 
-B - Brick Wall
+ʙ - ʙʀɪᴄᴋ ᴡᴀʟʟ
 
-L - Yellow Brick Wall
+ʟ - ʏᴇʟʟᴏᴡ ʙʀɪᴄᴋ ᴡᴀʟʟ
 
-R - Roof Block
+ʀ - ʀᴏᴏꜰ ʙʟᴏᴄᴋ
 
-T - Trunk Block
+ᴛ - ᴛʀᴜɴᴋ ʙʟᴏᴄᴋ
 
-U - Unique Block
+ᴜ - ᴜɴɪQᴜᴇ ʙʟᴏᴄᴋ
 
-S - Create Character Snapshot
+ꜱ - ᴄʀᴇᴀᴛᴇ ᴄʜᴀʀᴀᴄᴛᴇʀ ꜱɴᴀᴘꜱʜᴏᴛ
 
-G - Ground Block
+ɢ - ɢʀᴏᴜɴᴅ ʙʟᴏᴄᴋ
 
-D - Dark Green Block
+ᴅ - ᴅᴀʀᴋ ɢʀᴇᴇɴ ʙʟᴏᴄᴋ
 
-L - Lime Leaf Block
+ʟ - ʟɪᴍᴇ ʟᴇᴀꜰ ʙʟᴏᴄᴋ
 
 
 
