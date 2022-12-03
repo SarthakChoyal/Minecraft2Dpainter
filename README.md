@@ -11,14 +11,23 @@ All new Minecraft 2D Painter Redesigned!
 All Controls: 
 
 W - Water Block
+
 B - Brick Wall
+
 L - Yellow Brick Wall
+
 R - Roof Block
+
 T - Trunk Block
+
 U - Unique Block
+
 S - Create Character Snapshot
+
 G - Ground Block
+
 D - Dark Green Block
+
 L - Lime Leaf Block
 
 
